@@ -1,0 +1,1 @@
+This project demonstrates web side application flow for OAUTH2.
